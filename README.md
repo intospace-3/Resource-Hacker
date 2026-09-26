@@ -216,4 +216,4 @@ Resource Hacker is offered as a full free version, providing you with all featur
 Unlock the full potential of your applications today! Download Resource Hacker for free and start customizing your Windows experience now!
 
 ---
-**Last updated:** 2026-09-25 21:57:09 UTC
+**Last updated:** 2026-09-26 00:23:38 UTC
